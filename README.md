@@ -1,2 +1,2 @@
 # MathCoding
-This is a repository where I will be posting my beginner Code.... MathPack 
+This is a repository where I will be posting my beginner Code.... MathPack
